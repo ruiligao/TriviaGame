@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/background1.jpg");
+    background-repeat: repeat;
+    padding-top:40px;
+    
+}
+.container {
+    background-color: rgb(106, 231, 240);
+    padding-bottom:20px;
+    margin-top:80px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+}
+button{
+    background-color:rgb(213, 164, 233)
+}
+.image {
+    width:300px;
+    height:300px;
+}
