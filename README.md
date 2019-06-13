@@ -13,5 +13,6 @@ In the page, setTimeOut and setInterval are used to make the page look fun
 This is a good practice to use what we lear in class.
 It is good practice to debuguring 
 
+## Screen Short
 
 ![1](https://user-images.githubusercontent.com/47795010/59473090-af5b2200-8df5-11e9-8da2-68e92e13ee8b.png)
