@@ -1,5 +1,8 @@
 # TriviaGame
-Instruction:
+### link:  https://ruiligao.github.io/TriviaGame/ 
+
+## Overview
+
 There are six questions. The player has 30 second to work on each question.
 If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input.
 The scenario is similar for wrong answers and time-outs.
@@ -9,5 +12,6 @@ It is wrote in HTML, CSS, JS (Jquery). BootScrapt external CSS are using for sty
 In the page, setTimeOut and setInterval are used to make the page look fun
 This is a good practice to use what we lear in class.
 It is good practice to debuguring 
+
 
 ![1](https://user-images.githubusercontent.com/47795010/59473090-af5b2200-8df5-11e9-8da2-68e92e13ee8b.png)
